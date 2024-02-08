@@ -1,11 +1,11 @@
 public void setup()
 {
-    size(400,400);
+    size(500,500);
     background(0);
 }
 public void draw()
 {
-  sierpinski(300,300,200);
+  sierpinski(475,475,450);
 }
 public void sierpinski(int x, int y, int len) 
 {
